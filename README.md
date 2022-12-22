@@ -1,0 +1,1 @@
+# Integral-Numerik-Metode-Reiman-Trapezoid
